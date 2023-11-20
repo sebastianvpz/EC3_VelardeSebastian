@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ec3_VelardeSebastian</string>
+    <string name="valName">Ingresa tu usuario</string>
+    <string name="valPasw">Ingresa tu contraseña</string>
+    <string name="valAcc">Acceder</string>
+    <string name="valTitCan">Encuentra tu canino amigo mas cercano</string>
+    <string name="valDist">Ingrese su distrito</string>
+    <string name="valFechIN">Fecha Inicio</string>
+    <string name="valkFechaFin">Fecha Fin</string>
+    <string name="valBus">Buscar</string>
+    <string name="valtitRuta">Ruta NR01</string>
+    <string name="valSubTit">Bus 1 Capacidad Max.25\nAsientos Disponibles:18</string>
+    <string name="valTitResenas">RESEÑAS RUTA NRO01</string>
+    <string name="valListar">Listado de Reseñas</string>
+</resources>
